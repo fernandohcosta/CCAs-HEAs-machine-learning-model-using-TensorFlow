@@ -1,4 +1,4 @@
-Machine learning model for complex concentrated alloys/high entropy alloys using TensorFlow
+## Machine learning model for complex concentrated alloys/high entropy alloys using TensorFlow
 
 Author: Fernando Henrique da Costa 
 <fernando.henriquecosta@yahoo.com.br>
